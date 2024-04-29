@@ -1,0 +1,298 @@
+index,County,SIR,AIR,Lower CI,Upper CI,Recent Trend,Recent IR,Date
+0,"US (SEER+NPCR)(1,10)",20.1,62.4,62.3,62.6,falling,2.5,01-01-2013
+1,"Autauga County, Alabama(6,10)",17.7,74.9,65.1,85.7,stable,0.5,02-01-2013
+2,"Baldwin County, Alabama(6,10)",19.7,66.9,62.4,71.7,stable,3,03-01-2013
+3,"Barbour County, Alabama(6,10)",23.1,74.6,61.8,89.4,stable,-6.4,04-01-2013
+4,"Bibb County, Alabama(6,10)",26.5,86.4,71,104.2,stable,-4.5,05-01-2013
+5,"Blount County, Alabama(6,10)",20.5,69.7,61.2,79,stable,-13.6,06-01-2013
+6,"Bullock County, Alabama(6,10)",31.7,65.8,47.3,89.6,stable,7.2,07-01-2013
+7,"Butler County, Alabama(6,10)",22.9,58.3,46.4,72.7,stable,2,08-01-2013
+8,"Calhoun County, Alabama(6,10)",27.1,84.2,77.5,91.3,stable,-3.8,09-01-2013
+9,"Chambers County, Alabama(6,10)",20.08,75.4,64.4,87.9,falling,-7.9,10-01-2013
+10,"Cherokee County, Alabama(6,10)",22,82.4,69.8,96.9,stable,7.1,11-01-2013
+11,"Chilton County, Alabama(6,10)",20.3,73.9,63.7,85.4,stable,-0.2,12-01-2013
+12,"Choctaw County, Alabama(6,10)",21.4,49.2,36.3,66,stable,9.7,13-01-2013
+13,"Clarke County, Alabama(6,10)",21.7,69.5,57.3,83.7,stable,-1.3,14-01-2013
+14,"Clay County, Alabama(6,10)",20.76,83.3,65.8,104.5,stable,-13.8,15-01-2013
+15,"Cleburne County, Alabama(6,10)",26.7,74.9,58.1,95.4,stable,4.8,16-01-2013
+16,"Coffee County, Alabama(6,10)",20.1,71.5,62.3,81.9,stable,-7.2,17-01-2013
+17,"Colbert County, Alabama(6,10)",22,75.9,67.2,85.5,stable,-4.4,18-01-2013
+18,"Conecuh County, Alabama(6,10)",20.6,73.5,57.1,93.8,stable,-9.7,19-01-2013
+19,"Coosa County, Alabama(6,10)",26,82.6,63.9,106,stable,-11.5,20-01-2013
+20,"Covington County, Alabama(6,10)",20.8,83,72.3,95.1,stable,5.7,21-01-2013
+21,"Crenshaw County, Alabama(6,10)",19.1,61.5,46.3,80.6,stable,14.7,22-01-2013
+22,"Cullman County, Alabama(6,10)",19.5,69.6,62.6,77.3,stable,-2.2,23-01-2013
+23,"Dale County, Alabama(6,10)",22.6,76.7,66.7,87.7,stable,-3.2,24-01-2013
+24,"Dallas County, Alabama(6,10)",23.5,76.2,65.6,88,stable,7.4,25-01-2013
+25,"DeKalb County, Alabama(6,10)",25.1,60.8,53.5,68.9,stable,-2.1,26-01-2013
+26,"Elmore County, Alabama(6,10)",27.5,78.1,69.7,87.2,stable,-3.4,27-01-2013
+27,"Escambia County, Alabama(6,10)",20.2,75.5,64.8,87.6,stable,0,28-01-2013
+28,"Etowah County, Alabama(6,10)",27.5,81.9,75.1,89.1,stable,-0.1,29-01-2013
+29,"Fayette County, Alabama(6,10)",27.9,77.3,62.3,95.3,stable,-6.1,30-01-2013
+30,"Franklin County, Alabama(6,10)",21.5,72.4,60.7,85.8,stable,-3.2,31-01-2013
+31,"Geneva County, Alabama(6,10)",25.8,90.3,77.2,105.2,stable,-2.7,01-02-2013
+32,"Greene County, Alabama(6,10)",21.3,87.9,65,117,stable,10.2,02-02-2013
+33,"Hale County, Alabama(6,10)",23.6,71,55,90.6,stable,1.8,03-02-2013
+34,"Henry County, Alabama(6,10)",23.6,66.5,52.7,83.3,falling,-14.3,04-02-2013
+35,"Houston County, Alabama(6,10)",24.4,70.8,64.2,77.8,stable,-2.3,05-02-2013
+36,"Jackson County, Alabama(6,10)",24.8,80.9,71.7,91.1,stable,-2.6,06-02-2013
+37,"Jefferson County, Alabama(6,10)",20.9,65.1,62.5,67.8,falling,-1.8,07-02-2013
+38,"Lamar County, Alabama(6,10)",25.6,80.4,64,100.3,stable,4.1,08-02-2013
+39,"Lauderdale County, Alabama(6,10)",23.4,69.3,62.9,76.3,stable,-1.3,09-02-2013
+40,"Lawrence County, Alabama(6,10)",22.7,88.1,75.6,102.3,stable,-9,10-02-2013
+41,"Lee County, Alabama(6,10)",27.1,59.4,53.2,66.1,stable,0.3,11-02-2013
+42,"Limestone County, Alabama(6,10)",20.3,73.4,65.7,81.8,stable,-2.7,12-02-2013
+43,"Lowndes County, Alabama(6,10)",21.5,57.6,41.1,79,stable,-14.5,13-02-2013
+44,"Macon County, Alabama(6,10)",22.5,57.9,45.3,73.3,stable,-6.1,14-02-2013
+45,"Madison County, Alabama(6,10)",25.6,64.8,61.1,68.6,falling,-4.6,15-02-2013
+46,"Marengo County, Alabama(6,10)",19.7,61.6,49.3,76.4,stable,0.1,16-02-2013
+47,"Marion County, Alabama(6,10)",20.7,74.2,63.1,86.9,stable,1.2,17-02-2013
+48,"Marshall County, Alabama(6,10)",21.1,79.4,72.1,87.2,stable,-5.3,18-02-2013
+49,"Mobile County, Alabama(6,10)",21.4,75.4,71.9,79.1,stable,-2.1,19-02-2013
+50,"Monroe County, Alabama(6,10)",26,62.3,50.2,76.7,stable,-8.5,20-02-2013
+51,"Montgomery County, Alabama(6,10)",26.72,61,56.5,65.6,falling,-9.6,21-02-2013
+52,"Morgan County, Alabama(6,10)",24.8,80.4,74,87.4,stable,-3.2,22-02-2013
+53,"Perry County, Alabama(6,10)",21,83.1,62.5,108.8,stable,-5,23-02-2013
+54,"Pickens County, Alabama(6,10)",28.2,65.6,52.8,81,stable,-13.2,24-02-2013
+55,"Pike County, Alabama(6,10)",18.8,61.8,50.5,74.9,stable,-11.9,25-02-2013
+56,"Randolph County, Alabama(6,10)",23.2,75.5,62.2,91,stable,-8.5,26-02-2013
+57,"Russell County, Alabama(6,10)",23.6,78.7,68.8,89.6,stable,-3.6,27-02-2013
+58,"St. Clair County, Alabama(6,10)",18.6,74.7,67.1,83.1,stable,-2.3,28-02-2013
+59,"Shelby County, Alabama(6,10)",25.5,57.1,52.2,62.2,stable,-6.1,01-03-2013
+60,"Sumter County, Alabama(6,10)",26.4,55.5,40.5,74.7,stable,-2.3,02-03-2013
+61,"Talladega County, Alabama(6,10)",23.8,74,66.5,82.1,stable,2.5,03-03-2013
+62,"Tallapoosa County, Alabama(6,10)",24.9,70.5,61,81.3,stable,2,04-03-2013
+63,"Tuscaloosa County, Alabama(6,10)",21.4,72.3,66.9,78.1,stable,-4.1,05-03-2013
+64,"Walker County, Alabama(6,10)",22.6,98.3,89.2,108.1,stable,0.1,06-03-2013
+65,"Washington County, Alabama(6,10)",20.9,74.8,58.9,93.9,stable,-0.5,07-03-2013
+66,"Wilcox County, Alabama(6,10)",26.7,73.2,54.4,96.7,stable,-6.2,08-03-2013
+67,"Winston County, Alabama(6,10)",28.7,90.8,76.9,106.7,stable,-12.5,09-03-2013
+70,"Anchorage Borough, Alaska(6,10)",23.4,61.5,56.5,66.8,stable,-6.5,10-03-2013
+71,"Bethel Census Area, Alaska(6,10)",22.7,62.7,40.3,91.9,stable,-26.1,11-03-2013
+78,"Kenai Peninsula Borough, Alaska(6,10)",24.3,64.9,55.4,75.4,stable,-12.8,12-03-2013
+79,"Ketchikan Gateway Borough, Alaska(6,10)",23.5,88.3,65.7,115.9,stable,-16.9,13-03-2013
+80,"Kodiak Island Borough, Alaska(6,10)",24.4,74.7,48.8,108.2,stable,-19.2,14-03-2013
+82,"Matanuska-Susitna Borough, Alaska(6,10)",22.4,69.7,60.6,79.7,stable,1.8,15-03-2013
+83,"Nome Census Area, Alaska(6,10)",17,103.6,68.4,148.9,stable,-15.3,16-03-2013
+84,"North Slope Borough, Alaska(6,10)",19.8,153.4,95.2,229.4,stable,0.2,17-03-2013
+86,"Prince of Wales-Outer Ketchikan, Alaska(6,10)",23.5,81.4,48.2,128.5,stable,-6.6,18-03-2013
+87,"Sitka Borough, Alaska(6,10)",28.7,44,26.6,68.5,stable,34.9,19-03-2013
+89,"Southeast Fairbanks Census Area, Alaska(6,10)",24.1,76.8,48.1,116,stable,4.4,20-03-2013
+90,"Valdez-Cordova Census Area, Alaska(6,10)",23,66.1,41.1,99.9,stable,-9.8,21-03-2013
+92,"Wrangell-Petersburg Census Area, Alaska(6,10)",23.6,78.8,51.9,115.6,stable,-17.3,22-03-2013
+95,"Apache County, Arizona(6,10)",25.5,22.9,18.1,28.5,rising,13.4,23-03-2013
+96,"Cochise County, Arizona(6,10)",18.6,46.9,42.5,51.8,stable,0.9,24-03-2013
+97,"Coconino County, Arizona(6,10)",18.04,36.7,31.5,42.4,stable,-1.3,25-03-2013
+98,"Gila County, Arizona(6,10)",27.6,54.3,47.7,61.7,stable,-10.5,26-03-2013
+99,"Graham County, Arizona(6,10)",26.9,45.5,36,56.7,stable,-5.2,27-03-2013
+100,"Greenlee County, Arizona(6,10)",21.5,64,42.5,92.5,stable,-7.1,28-03-2013
+101,"La Paz County, Arizona(6,10)",25.9,54.4,44.1,67.2,stable,-5.7,29-03-2013
+102,"Maricopa County, Arizona(6,10)",29,52.2,51.2,53.2,falling,-4,30-03-2013
+103,"Mohave County, Arizona(6,10)",20.2,76.6,72.6,80.9,stable,-0.7,31-03-2013
+104,"Navajo County, Arizona(6,10)",25,39.6,34.5,45.2,stable,-1.1,01-04-2013
+105,"Pima County, Arizona(6,10)",22.4,50.9,49.1,52.7,stable,-1.8,02-04-2013
+106,"Pinal County, Arizona(6,10)",26.1,45.5,42.7,48.5,falling,-5.2,03-04-2013
+107,"Santa Cruz County, Arizona(6,10)",26.9,36.1,29,44.4,stable,-16.4,04-04-2013
+108,"Yavapai County, Arizona(6,10)",25.8,51.9,48.6,55.3,stable,-3.7,05-04-2013
+109,"Yuma County, Arizona(6,10)",20.9,48,44.1,52.1,stable,-4.3,06-04-2013
+110,"Arkansas County, Arkansas(6,10)",22.4,85.9,70.1,104.4,stable,-6.8,07-04-2013
+111,"Ashley County, Arkansas(6,10)",21.2,77,63.3,92.9,stable,6.2,08-04-2013
+112,"Baxter County, Arkansas(6,10)",18.9,85.6,76.4,95.9,stable,-2.1,09-04-2013
+113,"Benton County, Arkansas(6,10)",21.5,56.4,52.1,60.9,stable,1.3,10-04-2013
+114,"Boone County, Arkansas(6,10)",20.6,67.7,58,78.8,stable,4.4,11-04-2013
+115,"Bradley County, Arkansas(6,10)",20.6,86.3,66.3,111,stable,6.5,12-04-2013
+116,"Calhoun County, Arkansas(6,10)",21.5,82.5,56.2,118.7,stable,11.9,13-04-2013
+117,"Carroll County, Arkansas(6,10)",20.5,59.1,48.9,71.1,stable,5.1,14-04-2013
+118,"Chicot County, Arkansas(6,10)",20.2,76.4,58.3,99,stable,-1.4,15-04-2013
+119,"Clark County, Arkansas(6,10)",21.9,71.6,57.8,87.8,stable,8,16-04-2013
+120,"Clay County, Arkansas(6,10)",22.6,108.7,90.6,129.9,stable,2.1,17-04-2013
+121,"Cleburne County, Arkansas(6,10)",23.5,83.6,72,97,stable,3,18-04-2013
+122,"Cleveland County, Arkansas(6,10)",20,77.5,56.6,104.5,stable,15.8,19-04-2013
+123,"Columbia County, Arkansas(6,10)",23.1,72,58.8,87.3,stable,8.8,20-04-2013
+124,"Conway County, Arkansas(6,10)",24.7,75,61.4,91.1,stable,-12.9,21-04-2013
+125,"Craighead County, Arkansas(6,10)",26.3,74.6,67.1,82.7,stable,4.4,22-04-2013
+126,"Crawford County, Arkansas(6,10)",26.4,79.1,70,89.1,stable,0.2,23-04-2013
+127,"Crittenden County, Arkansas(6,10)",17.7,75.6,64.9,87.5,stable,4.1,24-04-2013
+128,"Cross County, Arkansas(6,10)",22.4,77.5,62,95.9,stable,4.5,25-04-2013
+129,"Dallas County, Arkansas(6,10)",22.6,82.2,60.1,110.8,stable,-0.6,26-04-2013
+130,"Desha County, Arkansas(6,10)",28,79.2,61,101.5,stable,7.8,27-04-2013
+131,"Drew County, Arkansas(6,10)",26.6,77.3,61.8,95.6,falling,-18.2,28-04-2013
+132,"Faulkner County, Arkansas(6,10)",18.8,75.9,68.4,84,stable,4.5,29-04-2013
+133,"Franklin County, Arkansas(6,10)",22.2,77.1,62.2,94.8,stable,-11.7,30-04-2013
+134,"Fulton County, Arkansas(6,10)",22,64.7,49.4,84.2,stable,-3.8,01-05-2013
+135,"Garland County, Arkansas(6,10)",21.9,80.6,74.2,87.6,stable,-0.8,02-05-2013
+136,"Grant County, Arkansas(6,10)",25,96.1,78.1,117.2,stable,-1.2,03-05-2013
+137,"Greene County, Arkansas(6,10)",22.9,89.2,77.8,101.9,stable,5,04-05-2013
+138,"Hempstead County, Arkansas(6,10)",19.5,60.6,48.4,75.2,stable,5.6,05-05-2013
+139,"Hot Spring County, Arkansas(6,10)",31.1,94.2,81.6,108.5,stable,-0.4,06-05-2013
+140,"Howard County, Arkansas(6,10)",24.6,96.2,76.2,120.1,stable,6.6,07-05-2013
+141,"Independence County, Arkansas(6,10)",23.9,82.3,70.9,95,stable,1.8,08-05-2013
+142,"Izard County, Arkansas(6,10)",23,55.9,43.1,72.2,stable,-0.3,09-05-2013
+143,"Jackson County, Arkansas(6,10)",28.7,104.4,86.5,125.2,stable,-4.8,10-05-2013
+144,"Jefferson County, Arkansas(6,10)",23.8,97.5,88.3,107.5,stable,-1,11-05-2013
+145,"Johnson County, Arkansas(6,10)",20.5,97.2,81.9,114.5,falling,-7.7,12-05-2013
+146,"Lafayette County, Arkansas(6,10)",25.5,98.1,73.9,128.9,falling,-11.1,13-05-2013
+147,"Lawrence County, Arkansas(6,10)",24,102.7,85.3,123.1,stable,6.4,14-05-2013
+148,"Lee County, Arkansas(6,10)",23.2,57,40.2,79.1,stable,-11,15-05-2013
+149,"Lincoln County, Arkansas(6,10)",19.7,63.4,46.7,84.4,stable,-15.4,16-05-2013
+150,"Little River County, Arkansas(6,10)",20,79.5,61.8,101.1,stable,0.5,17-05-2013
+151,"Logan County, Arkansas(6,10)",30.3,87,72.9,103.3,stable,6.2,18-05-2013
+152,"Lonoke County, Arkansas(6,10)",25.4,91.9,81.8,102.9,stable,2.2,19-05-2013
+153,"Madison County, Arkansas(6,10)",24.6,67.8,52.6,86.5,stable,4.4,20-05-2013
+154,"Marion County, Arkansas(6,10)",25.2,82.7,68.6,99.7,stable,2.6,21-05-2013
+155,"Miller County, Arkansas(6,10)",28.9,81.2,70.3,93.4,rising,-1.4,22-05-2013
+156,"Mississippi County, Arkansas(6,10)",20,73.6,63.2,85.3,rising,-0.7,23-05-2013
+157,"Monroe County, Arkansas(6,10)",20.3,89.5,67.3,118,rising,-2.6,24-05-2013
+158,"Montgomery County, Arkansas(6,10)",24.3,67.5,50.2,90.2,rising,18.8,25-05-2013
+159,"Nevada County, Arkansas(6,10)",23,69.2,50.2,94,stable,5.7,26-05-2013
+160,"Newton County, Arkansas(6,10)",28.3,63.9,46.1,88,rising,17.7,27-05-2013
+161,"Ouachita County, Arkansas(6,10)",27,84,71,99,rising,-4.3,28-05-2013
+162,"Perry County, Arkansas(6,10)",27,98.8,76.9,125.7,rising,3.3,29-05-2013
+163,"Phillips County, Arkansas(6,10)",26.5,88.1,72.4,106.3,stable,4.4,30-05-2013
+164,"Pike County, Arkansas(6,10)",24.2,87.8,67.5,112.7,stable,3.3,31-05-2013
+165,"Poinsett County, Arkansas(6,10)",26.6,114,97.9,132.3,stable,1.6,01-06-2013
+166,"Polk County, Arkansas(6,10)",25.7,67.1,54.9,81.6,stable,12.4,02-06-2013
+167,"Pope County, Arkansas(6,10)",24.6,86.3,76.7,96.9,rising,-6.9,03-06-2013
+168,"Prairie County, Arkansas(6,10)",19.7,89,67.3,116.7,rising,-9.6,04-06-2013
+169,"Pulaski County, Arkansas(6,10)",24.1,68,64.4,71.7,rising,-1.5,05-06-2013
+170,"Randolph County, Arkansas(6,10)",20.9,83.9,68.2,102.5,rising,4.3,06-06-2013
+171,"St. Francis County, Arkansas(6,10)",27.8,65.2,52.8,79.8,rising,-0.5,07-06-2013
+172,"Saline County, Arkansas(6,10)",23.5,73.9,67.4,80.8,rising,0,08-06-2013
+173,"Scott County, Arkansas(6,10)",20.2,91.5,71.5,116.1,rising,1.1,09-06-2013
+174,"Searcy County, Arkansas(6,10)",21.9,72.1,53.2,97.1,rising,9.4,10-06-2013
+175,"Sebastian County, Arkansas(6,10)",23.1,78.2,71.6,85.2,stable,0.3,11-06-2013
+176,"Sevier County, Arkansas(6,10)",25.9,70.4,53.9,90.5,stable,10,12-06-2013
+177,"Sharp County, Arkansas(6,10)",22.8,89.3,74,107.3,stable,-4.3,13-06-2013
+178,"Stone County, Arkansas(6,10)",21.2,66.5,51.1,85.8,rising,-1.9,14-06-2013
+179,"Union County, Arkansas(6,10)",21.6,89,77.8,101.5,rising,3.2,15-06-2013
+180,"Van Buren County, Arkansas(6,10)",36.8,65.1,52.4,80.6,rising,3.9,16-06-2013
+181,"Washington County, Arkansas(6,10)",22.8,67.1,61.8,72.8,rising,2.2,17-06-2013
+182,"White County, Arkansas(6,10)",18.1,91.2,82.5,100.7,rising,-0.5,18-06-2013
+183,"Woodruff County, Arkansas(6,10)",18.6,108.5,80.9,143.6,stable,6,19-06-2013
+184,"Yell County, Arkansas(6,10)",20.3,88.1,73,105.7,stable,8.7,20-06-2013
+185,"Alameda County, California(7,8)",22.6,46,44.5,47.6,falling,-2.2,21-06-2013
+187,"Amador County, California(7,9)",25.1,58.7,50.5,68.1,stable,0,22-06-2013
+188,"Butte County, California(7,9)",26.8,61.4,57.3,65.8,stable,-4.4,23-06-2013
+189,"Calaveras County, California(7,9)",27.7,52.3,45.1,60.5,stable,-7.2,24-06-2013
+190,"Colusa County, California(7,9)",19.47,56,42.2,72.8,stable,-17.3,25-06-2013
+191,"Contra Costa County, California(7,8)",22.3,49.2,47.4,51.1,falling,-1.3,26-06-2013
+192,"Del Norte County, California(7,9)",26.5,78.4,65.2,93.6,stable,-14.6,27-06-2013
+193,"El Dorado County, California(7,9)",20.3,50,45.9,54.3,stable,-3.7,28-06-2013
+194,"Fresno County, California(7,9)",20.2,50.8,48.6,53.1,rising,-1.8,29-06-2013
+195,"Glenn County, California(7,9)",23.5,61.2,49.5,74.9,rising,0.2,30-06-2013
+196,"Humboldt County, California(7,9)",31.5,56.4,51.1,62.2,rising,-2.5,01-07-2013
+197,"Imperial County, California(7,9)",22.7,44.3,39.8,49.3,rising,-3.1,02-07-2013
+198,"Inyo County, California(7,9)",21.3,45.7,35.2,58.8,rising,-15.5,03-07-2013
+199,"Kern County, California(7,9)",25.9,55.7,53.2,58.4,rising,-3.2,04-07-2013
+200,"Kings County, California(7,9)",19.7,48.8,43,55,stable,-3.7,05-07-2013
+201,"Lake County, California(7,9)",22.9,73.7,66,82.2,stable,3.3,06-07-2013
+202,"Lassen County, California(7,9)",22.9,60.9,48.9,75,stable,-9.2,07-07-2013
+203,"Los Angeles County, California(7,9)",20.4,39.9,39.3,40.5,falling,-5.7,08-07-2013
+204,"Madera County, California(7,9)",21.2,51.8,46.6,57.3,stable,-6.8,09-07-2013
+205,"Marin County, California(7,8)",22.5,41.6,38.5,44.8,falling,-1.6,10-07-2013
+206,"Mariposa County, California(7,9)",17,54.6,43.2,68.8,stable,-10.2,11-07-2013
+207,"Mendocino County, California(7,9)",24.1,52.2,46.3,58.6,stable,-4,12-07-2013
+208,"Merced County, California(7,9)",28.7,56.9,52.3,61.7,falling,-7,13-07-2013
+209,"Modoc County, California(7,9)",22.3,43.7,29.4,63.8,stable,-19.5,14-07-2013
+211,"Monterey County, California(7,9)",24.2,42.6,39.7,45.7,stable,-4.8,15-07-2013
+212,"Napa County, California(7,9)",23.2,53.3,48.5,58.6,falling,-9.8,16-07-2013
+213,"Nevada County, California(7,9)",20.1,47.3,42.5,52.6,stable,-5.3,17-07-2013
+214,"Orange County, California(7,9)",26.8,44.1,43,45.2,falling,-6.6,18-07-2013
+215,"Placer County, California(7,9)",21.6,49.6,46.7,52.7,stable,-4.1,19-07-2013
+216,"Plumas County, California(7,9)",23.4,44.2,34.5,56.4,stable,-0.4,20-07-2013
+217,"Riverside County, California(7,9)",22.2,47.2,45.9,48.5,stable,-3.4,21-07-2013
+218,"Sacramento County, California(7,9)",18.6,56.9,55.1,58.7,stable,-2.8,22-07-2013
+219,"San Benito County, California(7,9)",21.3,40.2,32.2,49.5,stable,-13.3,23-07-2013
+220,"San Bernardino County, California(7,9)",25.5,49.5,48,51.1,falling,-6.4,24-07-2013
+221,"San Diego County, California(7,9)",25.5,49,47.9,50.1,falling,-3.5,25-07-2013
+222,"San Francisco County, California(7,8)",27.5,49,46.9,51,falling,-2.3,26-07-2013
+223,"San Joaquin County, California(7,9)",23.4,56.8,54.1,59.6,stable,-5.9,27-07-2013
+224,"San Luis Obispo County, California(7,9)",19.8,46.9,43.6,50.3,stable,-3.2,28-07-2013
+225,"San Mateo County, California(7,8)",18.8,45.3,43.3,47.5,falling,-1.9,29-07-2013
+226,"Santa Barbara County, California(7,9)",18.6,42.1,39.4,44.9,stable,-4,30-07-2013
+227,"Santa Clara County, California(7,9)",24.3,41.1,39.7,42.5,stable,-1,31-07-2013
+228,"Santa Cruz County, California(7,9)",22.8,37.6,34.2,41.2,stable,-1.3,01-08-2013
+229,"Shasta County, California(7,9)",21.9,62.5,58.1,67.2,stable,-4.5,02-08-2013
+231,"Siskiyou County, California(7,9)",21.1,60.5,52.5,69.6,stable,-5.7,03-08-2013
+232,"Solano County, California(7,9)",20.9,58.1,54.8,61.6,stable,-3.2,04-08-2013
+233,"Sonoma County, California(7,9)",28.7,49.5,46.9,52.2,falling,-7,05-08-2013
+234,"Stanislaus County, California(7,9)",25,57.4,54.4,60.6,stable,-6.5,06-08-2013
+235,"Sutter County, California(7,9)",22.2,56.3,49.9,63.4,stable,-4.3,07-08-2013
+236,"Tehama County, California(7,9)",23.7,65.2,57.6,73.7,falling,-11.7,08-08-2013
+237,"Trinity County, California(7,9)",19.8,66.6,51.3,85.7,stable,-17.4,09-08-2013
+238,"Tulare County, California(7,9)",24.8,47.9,44.8,51.3,falling,-11.2,10-08-2013
+239,"Tuolumne County, California(7,9)",26.9,58,51,65.7,stable,-8.5,11-08-2013
+240,"Ventura County, California(7,9)",20,41.5,39.5,43.6,falling,-3.6,12-08-2013
+241,"Yolo County, California(7,9)",19.9,42.3,38,47,stable,-1.5,13-08-2013
+242,"Yuba County, California(7,9)",24.7,68.1,59.2,77.8,stable,-8.1,14-08-2013
+243,"Adams County, Colorado(6,10)",26.1,52.6,49.1,56.2,stable,-1.5,15-08-2013
+244,"Alamosa County, Colorado(6,10)",24.3,47.9,33.3,66.7,stable,-2.4,16-08-2013
+245,"Arapahoe County, Colorado(6,10)",27.5,47.5,44.9,50.3,stable,-6,17-08-2013
+246,"Archuleta County, Colorado(6,10)",24.4,31.7,20.8,47.5,falling,-22,18-08-2013
+247,"Baca County, Colorado(6,10)",23,78.2,48,123.4,stable,-4.9,19-08-2013
+248,"Bent County, Colorado(6,10)",25.8,44,25.8,71.5,stable,21.1,20-08-2013
+249,"Boulder County, Colorado(6,10)",20.7,35.5,32.3,39,stable,-2.6,21-08-2013
+250,"Broomfield County, Colorado(6,10)",18.7,48.4,39.9,58.1,stable,-6.2,22-08-2013
+251,"Chaffee County, Colorado(6,10)",22.3,36.9,27.5,49.3,stable,-7.7,23-08-2013
+252,"Douglas County, Colorado(6,10)",25.3,37.1,33.2,41.4,stable,-0.6,24-08-2013
+253,"Eagle County, Colorado(6,10)",26.9,28.3,19.1,40,stable,-3.7,25-08-2013
+254,"Elbert County, Colorado(6,10)",22.6,47.5,34,64.5,stable,-16.2,26-08-2013
+255,"El Paso County, Colorado(6,10)",26.5,50.3,47.7,53.1,falling,-3.2,27-08-2013
+256,"Fremont County, Colorado(6,10)",25.8,56.4,48.6,65.3,stable,-1,28-08-2013
+257,"Garfield County, Colorado(6,10)",26.8,43.2,34.6,53.1,stable,-6.2,29-08-2013
+268,"La Plata County, Colorado(6,10)",30.3,34.4,27.5,42.5,stable,-7.1,30-08-2013
+269,"Larimer County, Colorado(6,10)",26.8,39.7,36.6,43.1,stable,3.3,31-08-2013
+270,"Las Animas County, Colorado(6,10)",23.9,46.9,34.8,62.4,stable,-16.7,01-09-2013
+271,"Lincoln County, Colorado(6,10)",26.9,53.5,31.6,85.8,stable,6.2,02-09-2013
+272,"Logan County, Colorado(6,10)",27.3,36.4,27,48.2,stable,9,03-09-2013
+273,"Mesa County, Colorado(6,10)",21,56.1,51.3,61.3,stable,-6.7,04-09-2013
+275,"Moffat County, Colorado(6,10)",22.6,40,26,58.8,stable,-10.3,05-09-2013
+276,"Montezuma County, Colorado(6,10)",26.1,40.2,31.5,50.8,stable,-12.4,06-09-2013
+277,"Montrose County, Colorado(6,10)",32,49.6,41.6,58.7,stable,-1.1,07-09-2013
+278,"Morgan County, Colorado(6,10)",25.6,49.5,39.1,61.8,stable,-1.7,08-09-2013
+279,"Otero County, Colorado(6,10)",29.1,40.5,30.3,53.5,stable,-26,09-09-2013
+280,"Weld County, Colorado(6,10)",22.3,45.7,41.7,50,stable,-5.4,10-09-2013
+281,"Yuma County, Colorado(6,10)",24.8,62.5,44.9,85.4,stable,-4.2,11-09-2013
+282,"Fairfield County, Connecticut(7,8)",26.7,54.9,52.9,57,falling,-1,12-09-2013
+283,"Hartford County, Connecticut(7,8)",25.7,62,59.9,64.2,falling,-0.3,13-09-2013
+284,"Litchfield County, Connecticut(7,8)",21.1,62.5,58.1,67.1,stable,0,14-09-2013
+285,"Middlesex County, Connecticut(7,8)",23.5,65.7,60.9,70.8,stable,-0.4,15-09-2013
+286,"New Haven County, Connecticut(7,8)",29.4,70.2,67.8,72.5,falling,-0.4,16-09-2013
+287,"New London County, Connecticut(7,8)",28.9,68.7,64.7,72.9,stable,-0.5,17-09-2013
+288,"Tolland County, Connecticut(7,8)",22.5,62.7,57.1,68.6,stable,-0.6,18-09-2013
+289,"Windham County, Connecticut(7,8)",22.9,65,58.9,71.6,stable,-2.7,19-09-2013
+290,"Kent County, Delaware(6,10)",21.6,79.2,73.5,85.2,stable,0.8,20-09-2013
+291,"New Castle County, Delaware(6,10)",24,67.3,64.3,70.4,stable,-1.4,21-09-2013
+292,"Sussex County, Delaware(6,10)",25.2,74.2,69.9,78.7,stable,-1.8,22-09-2013
+293,"District of Columbia(6,10)",19.5,59,56.3,61.9,stable,-1.7,23-09-2013
+294,"Alachua County, Florida(6,10)",21.8,67.8,63.1,72.8,stable,-2.9,24-09-2013
+295,"Baker County, Florida(6,10)",27,99.5,83.1,118.2,stable,-4.9,25-09-2013
+296,"Bay County, Florida(6,10)",20.6,88.4,82.7,94.3,stable,-5,26-09-2013
+297,"Bradford County, Florida(6,10)",27.8,82.1,69,97.1,stable,-1.3,27-09-2013
+298,"Brevard County, Florida(6,10)",22.3,74.2,71.6,76.8,falling,-3.5,28-09-2013
+299,"Broward County, Florida(6,10)",24.2,53.5,52.1,54.9,falling,-6.3,29-09-2013
+300,"Calhoun County, Florida(6,10)",27.8,78.2,61.3,98.7,stable,-12.5,30-09-2013
+301,"Charlotte County, Florida(6,10)",27.8,62.3,58.4,66.6,falling,-3.1,01-10-2013
+302,"Citrus County, Florida(6,10)",23.2,79.7,74.9,84.8,stable,-2.5,02-10-2013
+303,"Clay County, Florida(6,10)",23.9,79.2,73.6,85,stable,-1.7,03-10-2013
+304,"Collier County, Florida(6,10)",26,43.3,40.9,45.9,falling,-8.5,04-10-2013
+305,"Columbia County, Florida(6,10)",24.7,88.2,79.4,97.7,stable,-0.3,05-10-2013
+306,"DeSoto County, Florida(6,10)",25.4,57.7,48.4,68.5,stable,-5,06-10-2013
+307,"Dixie County, Florida(6,10)",26.5,100,83.2,119.8,stable,5,07-10-2013
+308,"Duval County, Florida(6,10)",22.5,78.1,75.4,80.8,stable,-3.1,08-10-2013
+309,"Escambia County, Florida(6,10)",22.7,78.4,74.3,82.7,stable,-3.5,09-10-2013
+310,"Flagler County, Florida(6,10)",23.78,67.7,62.2,73.7,stable,0,10-10-2013
+311,"Franklin County, Florida(6,10)",25.3,93.4,73.2,118.2,stable,-10,11-10-2013
+312,"Gadsden County, Florida(6,10)",26.5,66.4,57.1,76.9,stable,1.3,12-10-2013
+313,"Gilchrist County, Florida(6,10)",20,74.3,59.1,92.5,stable,-1.5,13-10-2013
+314,"Glades County, Florida(6,10)",25.2,54.9,41.8,71.7,stable,1.9,14-10-2013
+315,"Gulf County, Florida(6,10)",27.3,92.6,75.2,113.4,stable,-1.2,15-10-2013
+316,"Hamilton County, Florida(6,10)",22.1,67.8,51.2,88.3,stable,15.5,16-10-2013
+317,"Hardee County, Florida(6,10)",25.5,69,56.1,84,stable,1.3,17-10-2013
+318,"Hendry County, Florida(6,10)",21.5,65.2,54.1,77.9,stable,1.7,18-10-2013
+319,"Hernando County, Florida(6,10)",25.1,74.9,70.6,79.5,stable,-5.2,19-10-2013
+320,"Highlands County, Florida(6,10)",27.6,73.3,67.7,79.3,stable,0.4,20-10-2013
+321,"Hillsborough County, Florida(6,10)",22.4,69.7,67.6,71.8,falling,-2.8,21-10-2013
+322,"Holmes County, Florida(6,10)",26.3,71.2,57.6,87.3,stable,5.2,22-10-2013
+323,"Indian River County, Florida(6,10)",22.6,67,62.4,71.9,stable,-2.6,23-10-2013
+324,"Jackson County, Florida(6,10)",18.8,48.4,41,56.8,stable,3.4,24-10-2013
